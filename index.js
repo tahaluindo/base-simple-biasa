@@ -480,10 +480,10 @@ module.exports = client = async(client, mek) => {
 
                 case 'owner':
                 case 'author':
-                    number = '6281234603337@s.whatsapp.net'
+                    number = '62895369318181@s.whatsapp.net'
                     capt = `Nomor : @${number.split('@')[0]}\n`
-                    capt += 'Instagram : https://www.instagram.com/anzhen35'
-                    await client.fakeLink(from, capt, thumb, 'Click in here', 'https://www.instagram.com/anzhen35', mek)
+                    capt += 'Instagram : https://www.instagram.com/'
+                    await client.fakeLink(from, capt, thumb, 'Click in here', 'https://www.instagram.com/', mek)
                         /* client.sendContact(from, '6281234603337', 'owner', {
 key: {
   fromMe: false,
@@ -537,13 +537,13 @@ message: {
 - Versi Browser : *${client.browserDescription[2]}*
 
 *OWNER*
-- Instagram : https://www.instagram.com/anzhen35
-- WhatsApp : wa.me/6281234603337
+- Instagram : 
+- WhatsApp : 
 
 *SCRIPT*
 - Git : ${package.homepage}
 - License : ${package.license}`
-                    client.fakeLink(from, teks, thumb, tanggal, 'https://www.instagram.com/anzhen35', mek)
+                    client.fakeLink(from, teks, thumb, tanggal, 'https://www.instagram.com/', mek)
                     break
 
                 case 'say':
@@ -1704,8 +1704,5 @@ ${listDevote}`.trim()
 /**
  * End of proyek WhatsApp bot using baileys
  *
- * Thank to
- - https://github.com/MhankBarBar/weabot
- - https://github.com/Nurutomo/wabot-aq
  - All owner bot
 */
