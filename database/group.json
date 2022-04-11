@@ -1,0 +1,22 @@
+[
+	{
+		"from": "120363019044512786@g.us",
+		"offline": false,
+		"welcome": true,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "120363018694485285@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	}
+]

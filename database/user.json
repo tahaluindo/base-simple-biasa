@@ -1,0 +1,32 @@
+[
+	{
+		"id": "6281344113658@s.whatsapp.net",
+		"nama": "-",
+		"language": "indonesia",
+		"register": false,
+		"premium": false,
+		"banned": false,
+		"afk": false,
+		"chatbot": false,
+		"afkReason": "-",
+		"afkTime": "-",
+		"poin": 57,
+		"level": 1,
+		"warn": 0
+	},
+	{
+		"id": "6285252180456@s.whatsapp.net",
+		"nama": "-",
+		"language": "indonesia",
+		"register": false,
+		"premium": true,
+		"banned": false,
+		"afk": false,
+		"chatbot": false,
+		"afkReason": "-",
+		"afkTime": "-",
+		"poin": 23,
+		"level": 1,
+		"warn": 0
+	}
+]
